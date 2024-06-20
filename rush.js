@@ -2,7 +2,7 @@ const bot = require(__dirname + '/lib/gift')
 const { VERSION } = require(__dirname + '/config')
 
 const start = async () => {
-    Debug.info(`Starting Gifted - ${VERSION}`)
+    Debug.info(`Starting rush - ${VERSION}`)
   try {
     await bot.init()
     //bot.logger.info('⏳ Database Syncing!')
