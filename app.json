@@ -2,7 +2,7 @@
     "name": "gifted-buttoned@4.0.0",
     "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
     "website": "https://web.giftedtechnexus.co.ke",
-    "repository": "https://github.com/mouricedevs/Gifted-Md",
+    "repository": "https://github.com/Rush-MD/test",
     "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
     "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
     "success_url": "/",
@@ -52,7 +52,7 @@
       },
         "BUTTON_MODE": {
         "description": " Put value to 1 or 0 to enable/disable buttoned menu.",
-        "required": false,
+        "required": true,
         "value": "1"
       },
         "MENU_STYLE": {
@@ -114,7 +114,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "254762016957,254110853827,254728746852,255655147353,254728782591"
+        "value": "94760000000"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
